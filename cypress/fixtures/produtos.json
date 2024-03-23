@@ -1,0 +1,26 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "M",
+        "cor": "Green",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "32",
+        "cor": "Green",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Apollo Running Short",
+        "tamanho": "33",
+        "cor": "Black",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Augusta Pullover Jacket",
+        "tamanho": "S",
+        "cor": "Orange",
+        "quantidade": 1
+    }
+]
